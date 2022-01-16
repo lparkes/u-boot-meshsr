@@ -29,12 +29,12 @@
 #include <image.h>
 
 #if defined(CONFIG_FIT) || defined(CONFIG_OF_LIBFDT)
-#include <libfdt.h>
+#include <u-boot/libfdt.h>
 #include <fdt_support.h>
 #endif
 
 #include <u-boot/md5.h>
-#include <sha1.h>
+#include <u-boot/sha1.h>
 #include <asm/errno.h>
 #include <asm/io.h>
 

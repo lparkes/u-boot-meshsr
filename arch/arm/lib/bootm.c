@@ -17,7 +17,7 @@
 #include <image.h>
 #include <u-boot/zlib.h>
 #include <asm/byteorder.h>
-#include <libfdt.h>
+#include <u-boot/libfdt.h>
 #include <fdt_support.h>
 #include <asm/bootm.h>
 #include <linux/compiler.h>

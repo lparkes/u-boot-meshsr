@@ -33,7 +33,7 @@
 #include <nand.h>
 #include <onenand_uboot.h>
 #include <mmc.h>
-#include <libfdt.h>
+#include <u-boot/libfdt.h>
 #include <fdtdec.h>
 #include <post.h>
 #include <logbuff.h>

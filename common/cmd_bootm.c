@@ -32,7 +32,7 @@
 #endif
 
 #if defined(CONFIG_OF_LIBFDT)
-#include <libfdt.h>
+#include <u-boot/libfdt.h>
 #include <fdt_support.h>
 #endif
 
